@@ -7,7 +7,7 @@ published: true
 ---
 Want to make your own Site? well now you can just read this blog and follow the steps that I am going to giving in this post.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The first thing you need to do is make a github account and click on new repoitory. After you do that you can fork my site to help you make your own site. After that make sure you put the branch on gh-pages so that way you can see your post on your site.
 
 Jekyll also offers powerful support for code snippets:
 
