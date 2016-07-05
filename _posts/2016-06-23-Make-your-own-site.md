@@ -5,13 +5,13 @@ date: '2016-06-23 10:38:02 -0600'
 categories: jekyll update
 published: true
 ---
-Want to make your own Site? well now you can just read this blog and follow the steps that I am going to giving in this post.Here is the link to github https://github.com/ 
+Want to make your own Site? well now you can just read this blog and follow the steps that I am going to giving in this post.Here is the link to [github](https://github.com/)  
 
-The first thing you need to do is make a github account and click on new repoitory. After you do that you can fork my site to help you make your own site. After that make sure you put the branch on gh-pages so that way you can see your post on your site.I will leave a link to my site so you can fork it. https://github.com/icastillo93/site
+The first thing you need to do is make a github account and click on new repoitory. After you do that you can fork my site to help you make your own site. After that make sure you put the branch on gh-pages so that way you can see your post on your site.I will leave a link to my site so you can fork it. [My site](https://github.com/icastillo93/site)
 
-In there you can switch from the master branch and the gh-pages. Then you can github prose site and login there to edit your site there and look at the code of your site. Here is the link for that http://prose.io/ 
+In there you can switch from the master branch and the gh-pages. Then you can github prose site and login there to edit your site there and look at the code of your site. Here is the link for [prose](http://prose.io/)  
 
-To see your site go to this link here https://yourgithubusername.github.io/site/ replace yourgithubusername with your username to your github name.
+To see your site go to this link [here](https://yourgithubusername.github.io/site/)  replace yourgithubusername with your username to your github name.
 
 {% highlight ruby %}
 def print_hi(name)
