@@ -9,7 +9,7 @@ Want to make your own Site? Well now you can. Just read this blog and follow the
 
 The first thing you need to do is make a [github](https://github.com/) account. After you do that you can fork my site to help you make your own site. I will leave a link to my site so you can fork it. [My site](https://github.com/icastillo93/site)
 
-Then you can github prose site and login there to edit your site there and look at the code of your site. Here is the link for [prose](http://prose.io/) Github builds your site from the 'gh-pages' branch so make sure you are on that branch inside prose.io.
+Then you can go to prose.io and login there to edit your site there and look at the code of your site. Here is the link for [prose](http://prose.io/) Github builds your site from the 'gh-pages' branch so make sure you are on that branch inside prose.io.
 
 To see your site go to this link [here](https://yourgithubusername.github.io/site/) but replace yourgithubusername with your username to your github name. If you want to hide the posts that are already on the site, go into pros.io and click the button that says publish then save the site.
 
