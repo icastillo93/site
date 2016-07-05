@@ -11,7 +11,9 @@ The first thing you need to do is make a github account and click on new repoito
 
 In there you can switch from the master branch and the gh-pages. Then you can github prose site and login there to edit your site there and look at the code of your site. Here is the link for [prose](http://prose.io/)  
 
-To see your site go to this link [here](https://yourgithubusername.github.io/site/)  replace yourgithubusername with your username to your github name.
+To see your site go to this link [here](https://yourgithubusername.github.io/site/)  replace yourgithubusername with your username to your github name. 
+
+If you want to look at how the site works here is an exmaple of what the code looks like in my site.
 
 {% highlight yaml %}
 ---
@@ -24,7 +26,9 @@ published: true
 Want to make your own Site?
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Github uses jekyll. Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].of how to put 
+
+Here are more exmaples of how to put content on a web page
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
