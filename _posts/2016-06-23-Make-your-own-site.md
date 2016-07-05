@@ -9,7 +9,7 @@ Want to make your own Site? well now you can just read this blog and follow the 
 
 The first thing you need to do is make a github account and click on new repoitory. After you do that you can fork my site to help you make your own site. After that make sure you put the branch on gh-pages so that way you can see your post on your site.I will leave a link to my site so you can fork it.
 
-After you do that then download Github for your computer and login to your account. In there you can switch from the master branch and the gh-pages. Then you can github prose site and login there to edit your site there and look a issues that other people have seen or that you have seen
+After you do that then download Github for your computer and login to your account. In there you can switch from the master branch and the gh-pages. Then you can github prose site and login there to edit your site there and look at the code of your site
 
 {% highlight ruby %}
 def print_hi(name)
