@@ -11,7 +11,7 @@ The first thing you need to do is make a github account and click on new repoito
 
 In there you can switch from the master branch and the gh-pages. Then you can github prose site and login there to edit your site there and look at the code of your site. Here is the link for [prose](http://prose.io/)  
 
-To see your site go to this link [here](https://yourgithubusername.github.io/site/)  replace yourgithubusername with your username to your github name. 
+To see your site go to this link [here](https://yourgithubusername.github.io/site/)  replace yourgithubusername with your username to your github name. If you want to hide the post that are already on the site go in to pros.io and click the butten that says publish then save the site.
 
 If you want to look at how the site works here is an exmaple of what the code looks like in my site.
 
@@ -30,7 +30,7 @@ Github uses jekyll. Check out the [Jekyll docs][jekyll-docs] for more info on ho
 
 Here are [more exmaples](https://icastillo93.github.io/site/examples/) of how to put content on a web pages.
 
-You can edit any files on githud site without useing pros.io
+You can edit any files on githud site without useing pros.io. 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
