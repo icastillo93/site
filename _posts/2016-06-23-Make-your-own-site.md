@@ -28,7 +28,7 @@ Want to make your own Site?
 
 Github uses jekyll. Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].of how to put 
 
-Here are more exmaples of how to put content on a web page
+Here are [more exmaples](https://icastillo93.github.io/site/examples/) of how to put content on a web pages.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
