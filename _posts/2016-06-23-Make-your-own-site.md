@@ -11,7 +11,7 @@ The first thing you need to do is make a [github](https://github.com/) account. 
 
 Then you can go to prose.io and login there to edit your site there and look at the code of your site. Here is the link for [prose](http://prose.io/) Github builds your site from the 'gh-pages' branch so make sure you are on that branch inside prose.io.
 
-To see your site go to this link [here](https://yourgithubusername.github.io/site/) but replace yourgithubusername with your github username. If you want to hide the posts that are already on the site, go into prose.io and click the button that says publish then save the site.
+To see your site go to this link [here](https://yourgithubusername.github.io/site/) but replace yourgithubusername with your github username. If you want to hide the posts that are already on the site, go into prose.io and click the button that says publish then save the site. To create a new post using prose.io, click on _posts and then click 'New File.'
 
 If you want to look at how the site works here is an exmaple of what the code looks like in my site.
 
