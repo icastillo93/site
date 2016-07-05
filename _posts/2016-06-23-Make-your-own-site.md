@@ -13,12 +13,15 @@ In there you can switch from the master branch and the gh-pages. Then you can gi
 
 To see your site go to this link [here](https://yourgithubusername.github.io/site/)  replace yourgithubusername with your username to your github name.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight yaml %}
+---
+layout: post
+title: Make your own site!
+date: '2016-06-23 10:38:02 -0600'
+categories: jekyll update
+published: true
+---
+Want to make your own Site?
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
