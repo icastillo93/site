@@ -30,6 +30,8 @@ Github uses jekyll. Check out the [Jekyll docs][jekyll-docs] for more info on ho
 
 Here are [more exmaples](https://icastillo93.github.io/site/examples/) of how to put content on a web pages.
 
+You can edit any files on githud site without useing pros.io
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
