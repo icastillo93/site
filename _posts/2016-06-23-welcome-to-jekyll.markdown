@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Games to learn CSS and JavaScript
-date: '2016-7- 11:38:02 -0600'
+date: '2016-7-11:38:02 -0600'
 categories: jekyll update
 published: true
 ---
