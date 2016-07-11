@@ -1,18 +1,26 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Games to learn CSS and JavaScript
 date: '2016-06-23 10:38:02 -0600'
 categories: jekyll update
-published: true
+published: false
 ---
-For the first one here is the [link](http://alexnisnevich.github.io/untrusted/) the game is about going through the code and finding out how to get out of the the box that you are in. The objective of the game is to use the code and get out of the box and collect the blue rectangle by useing the arrow keys to move around.
+you’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-    The next game that I am going to talk about is [FLEXBOX FROGGY](http://flexboxfroggy.com/) it is a game that where you have to get the the frog to the lilly pad by putting in code to tell the frog what to do. I don't know much about this game but it is one of the easiest games to play.
-    
-    The next game is [code combat](https://codecombat.com/play) which is one of my favorite because it is easy to play and understand. The objective is to complete the different levels to proceed through the game. You can chose from 4 different code styles the two that i use are Python and Javascript.
-    
-    
-	The last and final game that i'm going to be talking about is CSS dinner. There is 26 levels to play and you will get the hang of it fast there's not much to explain about this game. 
-    
-    So if want to play any of these game then click on the link that I have left for each one of the games.
-   
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
