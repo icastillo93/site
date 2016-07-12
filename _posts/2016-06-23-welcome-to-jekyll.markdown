@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games to learn CSS and JavaScript
+title: ''
 date: '2016-06-23 10:38:02 -0600'
 categories: jekyll update
 published: false
