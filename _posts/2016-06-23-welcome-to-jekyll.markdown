@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Games to learn CSS and JavaScript
-date: '2016-7-11:38:02 -0600'
+date: '2016-7-11 10:38:02 -0600'
 categories: jekyll update
 published: true
 ---
@@ -15,4 +15,3 @@ published: true
 	The last and final game that i'm going to be talking about is CSS dinner. There is 26 levels to play and you will get the hang of it fast there's not much to explain about this game. 
     
     So if want to play any of these game then click on the link that I have left for each one of the games.
-   
