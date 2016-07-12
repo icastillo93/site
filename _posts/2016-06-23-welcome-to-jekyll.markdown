@@ -3,7 +3,7 @@ layout: post
 title: Games to learn CSS and JavaScript
 date: '2016-06-23 10:38:02 -0600'
 categories: jekyll update
-published: true
+published: false
 ---
 	For the first one here is the [link](http://alexnisnevich.github.io/untrusted/) the game is about going through the code and finding out how to get out of the the box that you are in. The objective of the game is to use the code and get out of the box and collect the blue rectangle by useing the arrow keys to move around.
 
